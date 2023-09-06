@@ -8,8 +8,8 @@ namespace OAProjects.EuchreScorer
 {
     public enum Scores
     {
-        LEFT_BOWER = 13,
-        RIGHT_BOWER = 12,
+        RIGHT_BOWER = 13,
+        LEFT_BOWER = 12,
         TRUMP_ACE = 11,
         TRUMP_KING = 10,
         TRUMP_QUEEN = 9,
